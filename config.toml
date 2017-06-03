@@ -1,4 +1,5 @@
 baseurl = "https://cristinafsanz.github.io/melies-hugo"
+publishDir = "docs"
 languageCode = "es"
 title = "Blog proyecto Méliès"
 theme = "hucore"
