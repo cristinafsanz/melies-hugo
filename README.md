@@ -57,7 +57,7 @@ Puedes probarlo ejecutando:
 
 Inicialmente es una página en blanco porque necesitas crear o elegir un tema.
 
-Yo he elegido un tema sencillo para el blog, que después se puede customizar: http://themes.gohugo.io/hucore/
+Yo he elegido un tema sencillo para el blog, que después se puede customizar: http://themes.gohugo.io/hucore/.
 
 Para el tema que he elegido se ejecuta (una vez estamos en la raíz del proyecto creado):
 
@@ -65,7 +65,7 @@ Para el tema que he elegido se ejecuta (una vez estamos en la raíz del proyecto
 	cd themes
 	git clone https://github.com/mgjohansen/hucore.git
 
-En la raíz tienes que editar el fichero config.toml con los datos de tu proyecto. Si quieres usar Disqus, puedes crear una cuenta y crear un nuevo proyecto en https://disqus.com/admin/create/. En Settings de Disqus tendrás el shortname que tienes que poner en el fichero config.toml.
+En la raíz tienes que editar el fichero config.toml con los datos de tu proyecto. Si quieres usar Disqus para habilitar comentarios en tu blog, puedes crear una cuenta y crear un nuevo proyecto en https://disqus.com/admin/create/. En Settings de Disqus tendrás el shortname que tienes que poner en el fichero config.toml.
 
 Ahora puedes probar de nuevo en local utilizando el tema bajado:
 
@@ -102,10 +102,4 @@ Hacemos las operaciones de git para subir los ficheros:
 	git remove -v (para verificar)
 	git push -u origin master
 
-Y con esto ya tenemos el blog publicado con GitHub Pages en la url que te indica GitHub: https://cristinafsanz.github.io/melies-hugo/.
-
-
-
-	
-
-
+Y con esto ya tenemos el blog publicado con GitHub Pages en la url que te indica GitHub. En mi caso: https://cristinafsanz.github.io/melies-hugo/.
