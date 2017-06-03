@@ -1,7 +1,7 @@
 +++
 date = "2017-06-03T16:26:19+02:00"
 tags = ["Hugo", "GitHub Pages"]
-title = "Crear blog github pages"
+title = "Crear blog con Hugo y publicarlo en Github pages"
 
 +++
 
