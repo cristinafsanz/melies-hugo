@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlas on Blog proyecto Méliès</title>
+    <link>https://cristinafsanz.github.io/melies-hugo/tags/charlas/</link>
+    <description>Recent content in Charlas on Blog proyecto Méliès</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>&amp;copy; 2017 Cristina Fernández | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
+    <lastBuildDate>Sat, 27 May 2017 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cristinafsanz.github.io/melies-hugo/tags/charlas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El por qué de este proyecto</title>
+      <link>https://cristinafsanz.github.io/melies-hugo/post/origen-proyecto/</link>
+      <pubDate>Sat, 27 May 2017 16:00:00 +0200</pubDate>
+      
+      <guid>https://cristinafsanz.github.io/melies-hugo/post/origen-proyecto/</guid>
+      <description>Hace unos meses di mi primera charla en 2 conferencias de Madrid, se llamaba Trucos fantásticos y dónde encontrarlos. En ella mezclé la magia de Harry Potter con el desarrollo front-end y di una serie de trucos sobre cómo ir aprendiendo. El último de ellos era practicar lo que aprendes y hablé sobre CodePen para publicar experimentos pequeños y GitHub Pages para publicar experimentos más grandes, como páginas web completas.</description>
+    </item>
+    
+  </channel>
+</rss>
