@@ -21,4 +21,6 @@ Mi idea es practicar cada uno de los siguientes cursos:
 
 Para el primer curso he pensado intentar emular algunas de las escenas de Georges Méliès a partir de CSS. Para la más famosa ya he visto una animación CSS en la cual me podría basar: <a href="https://codepen.io/eduardosada/pen/mOYGgB">Planeta y luna (Eduardo Sada)</a>.
 
+Por si os sirve, tengo un <a href="https://tree.taiga.io/project/cristinafsanz-improving-in-front-end-development/kanban">Kanban</a> para ir ordenando lo que quiero aprender en desarrollo Front-end.
+
 ¡Seguiré escribiendo con los avances!
