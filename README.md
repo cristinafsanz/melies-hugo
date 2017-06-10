@@ -132,7 +132,13 @@ Nota: Para hacer una pull request a un repositorio donde no tienes permisos:
 
 - Poner la descripción de la pull request (ellos te la dan en el fichero PULL_REQUEST_TEMPLATE).
 
-Con esto en un plazo de menos de 24 horas tendré el blog publicado en la nueva URL.
+Con esto en un plazo de menos de 24 horas tendré el blog publicado en la nueva URL (de hecho fue en el plazo de 1 hora).
+
+Nota: Como con Hugo se enlaza el css usando la url completa y no como ruta relativa he tenido que cambiar config.toml para que la baseurl sea "https://melies-hugo.js.org". Si no, había errores de "Mixed Content" porque realmente se publica la página con http desde GitHub (no permite https al utilizar el Custom Domain).
+
+El error que me daba era éste, que con el cambio de baseurl ya se ha solucionado:
+
+<code>Mixed Content: The page at 'https://melies-hugo.js.org/' was loaded over HTTPS, but requested an insecure stylesheet 'http://melies-hugo.js.org/css/style.css'. This request has been blocked; the content must be served over HTTPS.</code>
 
 
 
