@@ -114,7 +114,7 @@ Para poner cambiar al dominio que te da js.org tienes que hacer 3 pasos:
 
 - Determinar el subdominio js.org, que puede ser tanto el nombre de usuario como el nombre del repositorio. En mi caso elijo esto último: https://melies-hugo.js.org.
 
-- Añadir este dominio en la sección "Custom Domain" de la pestaña Settings del repositorio. Esto automáticamente crea un fichero CNAME dentro de la carpeta /docs (porque es ahí donde se publica en GitHub Pages, si se publicara en master el fichero CNAME se crearía en la raíz del repositorio).
+- Añadir el dominio <code>melies-hugo.js.org</code> en la sección "Custom Domain" de la pestaña Settings del repositorio. Esto automáticamente crea un fichero CNAME dentro de la carpeta /docs con el dominio (en /docs porque es ahí donde se publica en GitHub Pages, si se publicara en master el fichero CNAME se crearía en la raíz del repositorio).
 
 - Hacer un pull request al repositorio <a href="https://github.com/js-org/dns.js.org">dns.js.org</a> añadiendo una nueva línea con tu dominio en el fichero cnames_active.js. En mi caso añadí esta línea (manteniendo el orden alfabético):
 
