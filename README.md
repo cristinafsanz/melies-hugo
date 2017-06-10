@@ -118,7 +118,7 @@ Para poner cambiar al dominio que te da js.org tienes que hacer 3 pasos:
 
 - Hacer un pull request al repositorio <a href="https://github.com/js-org/dns.js.org">dns.js.org</a> añadiendo una nueva línea con tu dominio en el fichero cnames_active.js. En mi caso añadí esta línea (manteniendo el orden alfabético):
 
-	,"melies-hugo": "cristinafsanz.github.io/melies-hugo"
+	<code>,"melies-hugo": "cristinafsanz.github.io/melies-hugo"</code>
 
 Nota: Para hacer una pull request a un repositorio donde no tienes permisos:
 
@@ -132,7 +132,7 @@ Nota: Para hacer una pull request a un repositorio donde no tienes permisos:
 
 - Poner la descripción de la pull request (ellos te la dan en el fichero PULL_REQUEST_TEMPLATE).
 
-Con esto en un plazo de 24 horas tendré el blog publicado en la nueva URL.
+Con esto en un plazo de menos de 24 horas tendré el blog publicado en la nueva URL.
 
 
 

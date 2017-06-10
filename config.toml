@@ -1,4 +1,4 @@
-baseurl = "https://cristinafsanz.github.io/melies-hugo"
+baseurl = "http://melies-hugo.js.org"
 publishDir = "docs"
 languageCode = "es"
 title = "Blog proyecto Méliès"
