@@ -1,4 +1,4 @@
-baseurl = "http://melies-hugo.js.org"
+baseurl = "https://melies-hugo.js.org"
 publishDir = "docs"
 languageCode = "es"
 title = "Blog proyecto Méliès"

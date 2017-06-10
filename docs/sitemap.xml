@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://melies-hugo.js.org/post/experimentos-frontend/</loc>
+    <loc>https://melies-hugo.js.org/post/experimentos-frontend/</loc>
     <lastmod>2017-06-05T20:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/post/crear-blog-github-pages/</loc>
+    <loc>https://melies-hugo.js.org/post/crear-blog-github-pages/</loc>
     <lastmod>2017-06-03T16:26:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/post/origen-proyecto/</loc>
+    <loc>https://melies-hugo.js.org/post/origen-proyecto/</loc>
     <lastmod>2017-05-27T16:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/</loc>
+    <loc>https://melies-hugo.js.org/</loc>
     <lastmod>2017-06-05T20:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/categories/</loc>
+    <loc>https://melies-hugo.js.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/tags/charlas/</loc>
-    <lastmod>2017-05-27T16:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melies-hugo.js.org/tags/frontend/</loc>
-    <lastmod>2017-06-05T20:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melies-hugo.js.org/tags/github-pages/</loc>
-    <lastmod>2017-06-03T16:26:19+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melies-hugo.js.org/tags/hugo/</loc>
-    <lastmod>2017-06-03T16:26:19+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melies-hugo.js.org/post/</loc>
-    <lastmod>2017-06-05T20:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melies-hugo.js.org/tags/proyecto/</loc>
+    <loc>https://melies-hugo.js.org/tags/charlas/</loc>
     <lastmod>2017-05-27T16:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://melies-hugo.js.org/tags/</loc>
+    <loc>https://melies-hugo.js.org/tags/frontend/</loc>
+    <lastmod>2017-06-05T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/github-pages/</loc>
+    <lastmod>2017-06-03T16:26:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/hugo/</loc>
+    <lastmod>2017-06-03T16:26:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/post/</loc>
+    <lastmod>2017-06-05T20:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/proyecto/</loc>
+    <lastmod>2017-05-27T16:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/</loc>
     <lastmod>2017-05-27T16:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
