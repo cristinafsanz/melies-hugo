@@ -8,7 +8,7 @@ Por si no lo sabes, estoy haciendo una serie de proyectos que mezclen GitHub Pag
 
 La opción por defecto sería usar Jekyll como generador estático y eso fue lo que hice para crear <a href="http://cristinafsanz.github.io/projects/about/">mi blog</a>. Puedes consultarlo si quieres saber cómo funciona, teniendo en cuenta que cuando lo hice sólo se podía usar la rama gh-pages para publicar en GitHub Pages (ahora también se puede usar la rama master).
 
-## Publicación en GitHub Pages 
+## Publicación en GitHub Pages
 
 Esta vez voy a crear primero la estructura en local y después la subiré a un repositorio de GitHub. En este caso voy a habilitar GitHub Pages en /docs para que se visualice lo que hay en ese directorio (que será el contenido del blog) pero pueda subirse toda la estructura que genera Hugo a GitHub.
 
@@ -32,7 +32,7 @@ Después ya puedes escribir el primer artículo eligiendo un nombre de fichero d
 
 Esto crea un fichero en la ruta melies-hugo/content/post/.
 
-Inicialmente se crea un fichero con una fecha, un título y en modo draft. 
+Inicialmente se crea un fichero con una fecha, un título y en modo draft.
 
 	+++
 	date = "2017-06-03T16:26:19+02:00"
@@ -69,11 +69,11 @@ En la raíz tienes que editar el fichero config.toml con los datos de tu proyect
 
 Ahora puedes probar de nuevo en local utilizando el tema bajado:
 
-Si tienes ficheros draft: 
+Si tienes ficheros draft:
 
 	hugo server --theme=hucore --buildDrafts
 
-Si no tienes ficheros draft: 
+Si no tienes ficheros draft:
 
 	hugo server --theme=hucore
 
@@ -103,3 +103,39 @@ Hacemos las operaciones de git para subir los ficheros:
 	git push -u origin master
 
 Y con esto ya tenemos el blog publicado con GitHub Pages en la url que te indica GitHub. En mi caso: https://cristinafsanz.github.io/melies-hugo/.
+
+## Cambiar dominio de GitHub Pages
+
+Por defecto GitHub Pages publica el blog en https://cristinafsanz.github.io/melies-hugo, pero voy a cambiar el dominio a modo de prueba para ver cómo se hace.
+
+Voy a usar el servicio gratuito de <a href="https://github.com/js-org/dns.js.org">dns.js.org</a> para cambiar a un dominio distinto (lo encontré por casualidad buscando "GitHub Pages" en GitHub).
+
+Para poner cambiar al dominio que te da js.org tienes que hacer 3 pasos:
+
+- Determinar el subdominio js.org, que puede ser tanto el nombre de usuario como el nombre del repositorio. En mi caso elijo esto último: https://melies-hugo.js.org.
+
+- Añadir este dominio en la sección "Custom Domain" de la pestaña Settings del repositorio. Esto automáticamente crea un fichero CNAME dentro de la carpeta /docs (porque es ahí donde se publica en GitHub Pages, si se publicara en master el fichero CNAME se crearía en la raíz del repositorio).
+
+- Hacer un pull request al repositorio <a href="https://github.com/js-org/dns.js.org">dns.js.org</a> añadiendo una nueva línea con tu dominio en el fichero cnames_active.js. En mi caso añadí esta línea (manteniendo el orden alfabético):
+
+	,"melies-hugo": "cristinafsanz.github.io/melies-hugo"
+
+Nota: Para hacer una pull request a un repositorio donde no tienes permisos:
+
+- Haz un fork al repositorio.
+
+- Haz los cambios en el repositorio tuyo después del fork (en este caso edité el fichero cnames_active.js en GitHub directamente).
+
+- Volver al repositorio original y hacer una pull request.
+
+- Hacer click en el link "Compare across forks": El Base fork es el repositorio original y el base branch el repositorio mío.
+
+- Poner la descripción de la pull request (ellos te la dan en el fichero PULL_REQUEST_TEMPLATE).
+
+Con esto en un plazo de 24 horas tendré el blog publicado en la nueva URL.
+
+
+
+
+
+
