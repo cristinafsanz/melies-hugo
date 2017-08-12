@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aprender on Blog proyecto Méliès</title>
+    <link>https://melies-hugo.js.org/tags/aprender/</link>
+    <description>Recent content in Aprender on Blog proyecto Méliès</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>&amp;copy; 2017 Cristina Fernández | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥ | &lt;a href=&#34;https://js.org&#34; target=&#34;_blank&#34; title=&#34;JS.ORG | JavaScript Community&#34;&gt;&lt;img src=&#34;https://logo.js.org/dark_tiny.png&#34; width=&#34;55&#34; alt=&#34;JS.ORG Logo&#34;&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 12 Aug 2017 11:52:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://melies-hugo.js.org/tags/aprender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica y publica lo que aprendes</title>
+      <link>https://melies-hugo.js.org/post/practica-publica-aprende/</link>
+      <pubDate>Sat, 12 Aug 2017 11:52:00 +0200</pubDate>
+      
+      <guid>https://melies-hugo.js.org/post/practica-publica-aprende/</guid>
+      <description>En el sector del desarrollo de software salen cada día nuevas tecnologías que queremos/necesitamos aprender. Hacemos cursos o tutoriales para ir aprendiéndolas pero si no las practicamos lo suficiente no asentamos los conceptos. Además en mi caso me gustaría poder consultar esos ejemplos que voy haciendo y ver tanto cómo lo hice, el código y el resultado (la página/aplicación web).
+En estos últimos meses estoy explorando más GitHub para consultar otros casos de uso de GitHub Pages y veo que mucha gente crea repositorios para alojar el código que desarrolla en cursos que hace.</description>
+    </item>
+    
+  </channel>
+</rss>

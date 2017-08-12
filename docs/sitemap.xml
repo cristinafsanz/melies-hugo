@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://melies-hugo.js.org/post/practica-publica-aprende/</loc>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://melies-hugo.js.org/post/recopilacion-casos-uso/</loc>
     <lastmod>2017-06-17T11:38:27+02:00</lastmod>
   </url>
@@ -18,8 +23,14 @@
   </url>
   
   <url>
+    <loc>https://melies-hugo.js.org/tags/aprender/</loc>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://melies-hugo.js.org/</loc>
-    <lastmod>2017-06-17T11:38:27+02:00</lastmod>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +59,7 @@
   
   <url>
     <loc>https://melies-hugo.js.org/post/</loc>
-    <lastmod>2017-06-17T11:38:27+02:00</lastmod>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,8 +70,14 @@
   </url>
   
   <url>
+    <loc>https://melies-hugo.js.org/tags/proyectos-personales/</loc>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://melies-hugo.js.org/tags/</loc>
-    <lastmod>2017-05-27T16:00:00+02:00</lastmod>
+    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
