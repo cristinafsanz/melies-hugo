@@ -1,10 +1,11 @@
 +++
 date = "2017-06-05T20:00:00+02:00"
 tags = ["frontend"]
+draft = true
 title = "Los experimentos Front-end que quiero hacer"
 
-
 +++
+
 En los primeros repositorios <a href="https://github.com/cristinafsanz/melies-origen">melies-origen</a> y <a href="https://github.com/cristinafsanz/melies-hugo">melies-hugo</a> he ahondado más con las 2 formas nuevas de publicar en GitHub Pages (directamente en la rama master o en la carpeta /docs de la rama master). También he introducido un poco el universo Méliès. Sin embargo, todavía no he practicado desarrollo front-end, así que quiero empezar con ello con los próximos repositorios.
 
 Mi idea es practicar cada uno de los siguientes cursos:

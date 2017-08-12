@@ -7,19 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&amp;copy; 2017 Cristina Fernández | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥ | &lt;a href=&#34;https://js.org&#34; target=&#34;_blank&#34; title=&#34;JS.ORG | JavaScript Community&#34;&gt;&lt;img src=&#34;https://logo.js.org/dark_tiny.png&#34; width=&#34;55&#34; alt=&#34;JS.ORG Logo&#34;&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 20:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2017 11:38:27 +0200</lastBuildDate>
     
 	<atom:link href="https://melies-hugo.js.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Los experimentos Front-end que quiero hacer</title>
-      <link>https://melies-hugo.js.org/post/experimentos-frontend/</link>
-      <pubDate>Mon, 05 Jun 2017 20:00:00 +0200</pubDate>
+      <title>Recopilación casos de uso GitHub Pages</title>
+      <link>https://melies-hugo.js.org/post/recopilacion-casos-uso/</link>
+      <pubDate>Sat, 17 Jun 2017 11:38:27 +0200</pubDate>
       
-      <guid>https://melies-hugo.js.org/post/experimentos-frontend/</guid>
-      <description>En los primeros repositorios melies-origen y melies-hugo he ahondado más con las 2 formas nuevas de publicar en GitHub Pages (directamente en la rama master o en la carpeta /docs de la rama master). También he introducido un poco el universo Méliès. Sin embargo, todavía no he practicado desarrollo front-end, así que quiero empezar con ello con los próximos repositorios.
-Mi idea es practicar cada uno de los siguientes cursos:</description>
+      <guid>https://melies-hugo.js.org/post/recopilacion-casos-uso/</guid>
+      <description>Estoy recopilando los distintos casos de uso de GitHub Pages que voy probando en el repositorio github-pages. También estoy incluyendo otros casos de uso interesantes que voy encontrando mientras hago el proyecto.
+Realizaré también una presentación con WebSlides para explicar los conceptos de una forma más gráfica, para que se entiendan mejor.
+Si se te ocurren otros casos de uso interesantes, me puedes contactar por twitter a @cristinafsanz.</description>
     </item>
     
     <item>
@@ -29,7 +30,7 @@ Mi idea es practicar cada uno de los siguientes cursos:</description>
       
       <guid>https://melies-hugo.js.org/post/crear-blog-github-pages/</guid>
       <description>Además de publicar una presentación, también podemos crear un blog y publicarlo con GitHub Pages.
-Existen muchos generadores estáticos que podemos usar para crear un blog, pero he elegido el generador Hugo, ¿por qué? ¿por rapidez? ¿facilidad de uso? ¿porque se llama igual que la película que homenajea a Georges Méliès?
+Existen muchos generadores estáticos que podemos usar para crear un blog, pero he elegido el generador Hugo. ¿Por qué? ¿por rapidez? ¿facilidad de uso? ¿porque se llama igual que la película que homenajea a Georges Méliès?
 Por si no lo sabes, estoy haciendo una serie de proyectos que mezclen GitHub Pages, desarrollo Front-end y Georges Méliès, así que sí, he elegido Hugo para incluir la temática de Georges Méliès en este proyecto :)</description>
     </item>
     
