@@ -6,7 +6,7 @@ title = "Practica y publica lo que aprendes"
 
 +++
 
-En el sector del desarrollo de software salen cada día nuevas tecnologías que queremos/necesitamos aprender. Hacemos cursos o tutoriales para ir aprendiéndolas pero si no las practicamos lo suficiente no asentamos los conceptos. Además en mi caso me gustaría poder consultar esos ejemplos que voy haciendo y ver tanto cómo lo hice, el código y el resultado (la página/aplicación web).
+En el sector del desarrollo de software salen cada día nuevas tecnologías que queremos o necesitamos aprender. Hacemos cursos o tutoriales para ir aprendiéndolas pero si no las practicamos lo suficiente no asentamos los conceptos. Además en mi caso me gustaría poder consultar esos ejemplos que voy haciendo y ver tanto cómo lo hice, el código y el resultado (la página/aplicación web).
 
 En estos últimos meses estoy explorando más <a href="https://github.com/">GitHub</a> para consultar otros <a href="https://github.com/cristinafsanz/github-pages">casos de uso de GitHub Pages</a> y veo que mucha gente crea repositorios para alojar el código que desarrolla en cursos que hace.
 

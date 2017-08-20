@@ -87,7 +87,7 @@ Se crea o añade en .gitignore para que no se suba el directorio de themes
 
 	echo "/themes/" >> .gitignore
 
-## Subida a GitHub
+## Primera subida a GitHub
 
 Se crea un repositorio nuevo en GitHub (en mi caso melies-hugo), esta vez sin README, para evitar conflictos.
 
@@ -103,6 +103,37 @@ Hacemos las operaciones de git para subir los ficheros:
 	git push -u origin master
 
 Y con esto ya tenemos el blog publicado con GitHub Pages en la url que te indica GitHub. En mi caso: https://cristinafsanz.github.io/melies-hugo/.
+
+## Automizar generación de ficheros de salida
+
+Para cada subida tenemos que hacer lo siguiente (después de hacer los cambios y probar en local):
+
+	hugo --theme=hucore
+	git add .
+	git commit -m "Mensaje"
+	git push origin master
+
+Podemos usar el Hook pre-commit de Git para ejecutar los comandos anteriores al commit siempre y así evitar olvidarnos de generar los ficheros de salida (idea de <a href="https://twitter.com/laux_es">Ángel M. Miguel</a>).
+
+	cd .git/hooks
+	vi pre-commit
+	chmod +x pre-commit
+
+* Contenido pre-commit
+
+	```
+	#!/bin/bash
+
+	ROOT_REPO=$HOME/Others/Melies/melies-hugo
+
+	hugo -s $ROOT_REPO --theme=hucore
+	git add $ROOT_REPO
+	```
+
+Añadimos algún cambio en el blog y ejecutamos directamente el commit:
+
+	git commit -m "Prueba pre-commit"
+	git push origin master
 
 ## Cambiar dominio de GitHub Pages
 
