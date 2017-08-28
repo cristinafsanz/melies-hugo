@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&amp;copy; 2017 Cristina Fernández | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥ | &lt;a href=&#34;https://js.org&#34; target=&#34;_blank&#34; title=&#34;JS.ORG | JavaScript Community&#34;&gt;&lt;img src=&#34;https://logo.js.org/dark_tiny.png&#34; width=&#34;55&#34; alt=&#34;JS.ORG Logo&#34;&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 11:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2017 20:26:19 +0200</lastBuildDate>
     
 	<atom:link href="https://melies-hugo.js.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preparación de una presentación</title>
+      <link>https://melies-hugo.js.org/post/preparacion-presentacion/</link>
+      <pubDate>Mon, 28 Aug 2017 20:26:19 +0200</pubDate>
+      
+      <guid>https://melies-hugo.js.org/post/preparacion-presentacion/</guid>
+      <description>El fin de semana empecé a pensar en el guión para la charla que tengo que hacer en Tech Shessions para Septiembre.
+Empecé el proceso leyendo el artículo Cómo preparar y estructurar una presentación y me puse a realizar los 3 pasos que cuenta el artículo:
+ Primer paso: Responder a las siguientes preguntas:
+ ¿Quién es tu audiencia?
+ ¿Qué quieres que hagan?
+ ¿Por qué importa lo que explicarás?</description>
+    </item>
     
     <item>
       <title>Practica y publica lo que aprendes</title>

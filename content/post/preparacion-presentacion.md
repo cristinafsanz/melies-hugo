@@ -41,5 +41,5 @@ Después de escribir todas las ideas comencé por una versión inicial del guió
 
 Finalmente dibujé unos cuantos recuadros a modo de slides en miniatura para pintar un boceto en cada una y así retener las ideas que se me habían ocurrido en el proceso.
 
-El siguiente paso será crear la presentación con WebSlides. He creado un [repositorio](https://github.com/cristinafsanz/slides) para subir las presentaciones que vaya haciendo y he añadido algunas slides de inspiración de algunas desarrolladoras front-end referentes para mí, para acudir a ellas al diseñar la presentación.
+El siguiente paso será crear la presentación con WebSlides. He creado un [repositorio](https://github.com/cristinafsanz/slides) para subir las presentaciones que vaya haciendo junto con los guiones y he añadido algunas slides de inspiración de algunas desarrolladoras front-end referentes para mí, para acudir a ellas al diseñar la presentación.
 

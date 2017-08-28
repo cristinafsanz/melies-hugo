@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://melies-hugo.js.org/post/preparacion-presentacion/</loc>
+    <lastmod>2017-08-28T20:26:19+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://melies-hugo.js.org/post/practica-publica-aprende/</loc>
     <lastmod>2017-08-12T11:52:00+02:00</lastmod>
   </url>
@@ -30,12 +35,18 @@
   
   <url>
     <loc>https://melies-hugo.js.org/</loc>
-    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
+    <lastmod>2017-08-28T20:26:19+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://melies-hugo.js.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/charla/</loc>
+    <lastmod>2017-08-28T20:26:19+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +70,13 @@
   
   <url>
     <loc>https://melies-hugo.js.org/post/</loc>
-    <lastmod>2017-08-12T11:52:00+02:00</lastmod>
+    <lastmod>2017-08-28T20:26:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melies-hugo.js.org/tags/proceso/</loc>
+    <lastmod>2017-08-28T20:26:19+02:00</lastmod>
     <priority>0</priority>
   </url>
   
