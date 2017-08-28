@@ -9,7 +9,7 @@ El fin de semana empecé a pensar en el guión para la charla que tengo que hace
 
 Empecé el proceso leyendo el artículo [Cómo preparar y estructurar una presentación](http://presentastico.com/2011/01/17/cinco-horas-con-garr-iii-como-preparar-y-estructurar-una-presentacion/) y me puse a realizar los 3 pasos que cuenta el artículo:
 
-* Primer paso: Responder a las siguientes preguntas:
+Primer paso: Responder a las siguientes preguntas:
 
     * ¿Quién es tu audiencia?
 
@@ -17,7 +17,7 @@ Empecé el proceso leyendo el artículo [Cómo preparar y estructurar una presen
 
     * ¿Por qué importa lo que explicarás?
 
-* Segundo paso: Toda presentación tiene que ver con algún cambio:
+Segundo paso: Toda presentación tiene que ver con algún cambio:
 
     * Enuncia el punto de partida (o reto a superar).
 
@@ -25,7 +25,7 @@ Empecé el proceso leyendo el artículo [Cómo preparar y estructurar una presen
     
     * Tu presentación explicará cómo lograr este cambio.
 
-* Tercer paso: Preferiblemente usando notas adhesivas…
+Tercer paso: Preferiblemente usando notas 
 
     * Haz una lluvia de ideas (en cada nota, una idea).
 
