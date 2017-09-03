@@ -1,7 +1,7 @@
 +++
 date = "2017-08-28T20:26:19+02:00"
 tags = ["charla", "proceso"]
-title = "Preparación de una presentación"
+title = "Preparación de la presentación"
 
 +++
 
