@@ -11,6 +11,6 @@ Una de las secciones del curso explicaba el [cómo se hace](https://www.coursera
 
 ![Ejemplo guión con imágenes y acciones explicados entre paréntesis y en otro color](/images/script-mindshift.png?raw=true)
 
-Ahora intentaré hacer similar con el [guión de la charla](https://github.com/cristinafsanz/slides/blob/master/theantievent2017/guion.md).
+Ahora intentaré hacer algo similar con el [guión de la charla](https://github.com/cristinafsanz/slides/blob/master/theantievent2017/guion.md). Como diría [JJMerelo](https://twitter.com/jjmerelo), intentaré escribir un [número no nulo de palabras](http://zetatesters.com/2017/01/eb-17-sobre-git-escribir-y-autopublicar-con-juan-julian-merelo-extra-ball/).
 
 
