@@ -11,8 +11,8 @@ Una de las secciones del curso explicaba el [cómo se hace](https://www.coursera
 
 ![Ejemplo guión con imágenes y acciones explicados entre paréntesis y en otro color](/images/script-mindshift.png?raw=true)
 
-Ahora intentaré hacer algo similar con el [guión de la charla](https://github.com/cristinafsanz/slides/blob/master/theantievent2017/guion.md). Como diría [JJMerelo](https://twitter.com/jjmerelo), intentaré escribir un [número no nulo de palabras](http://zetatesters.com/2017/01/eb-17-sobre-git-escribir-y-autopublicar-con-juan-julian-merelo-extra-ball/).
+Ahora intentaré hacer algo similar con el [guión de la charla](https://github.com/cristinafsanz/slides/blob/master/theantievent2017/guion.md). Como diría [JJMerelo](https://twitter.com/jjmerelo), lo importante es escribir o reescribir un [número no nulo de palabras](http://zetatesters.com/2017/01/eb-17-sobre-git-escribir-y-autopublicar-con-juan-julian-merelo-extra-ball/) al día.
 
-Una vez esté escrito, intentaré revisar bien el orden de la presentación y las slides que se van a usar y qué van a tener. Es más fácil editar en el texto que luego con imágenes o código.
+Una vez esté escrito, revisaré el orden de la presentación y las slides que se van a usar y qué van a tener. Es más fácil editar en el texto que luego con imágenes o código.
 
 
