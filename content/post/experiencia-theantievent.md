@@ -9,7 +9,7 @@ title = "Experiencia en el evento tecnológico TheAntiEvent"
 
 Antes de empezar os pongo en contexto: Ha sido el primer evento al que he ido fuera de Madrid, que es donde vivo. No conocía a casi nadie en persona y a los que conocía tampoco demasiado. Y soy una persona introvertida, así que lo de ir a un Open Space 2 días era un reto. Pero había mucha gente que iba a ir a la que admiro, así que me decidí a ir este año.
 
-En otros eventos con estar con 1 ó 2 personas era suficiente y en este me ha dado pena no conocer a todo el mundo ¡y éramos 50! El ambiente ayudaba a que hubiera un ambiente relajado, a que hubiera charlas con poquita gente y pudieras colaborar y preguntar sin problemas. Todo el mundo tenía ganas de aportar pero de una forma muy humilde, que siempre se agradece. Aquí se ha hecho realidad lo de "más mentores, menos rockstars".
+En otros eventos con estar con 1 ó 2 personas era suficiente y en este me ha dado pena no conocer a todo el mundo ¡y éramos 50! Todos ayudaron a que hubiera un ambiente relajado, estuvo muy bien que hubiera charlas con poquita gente y pudieras colaborar y preguntar sin problemas. Todo el mundo tenía ganas de aportar pero de una forma muy humilde, que siempre se agradece. Aquí se ha hecho realidad lo de "más mentores, menos rockstars".
 
 ##  Viernes
 
@@ -27,21 +27,21 @@ Asistí a una charla de Vue, con [Carlos](https://twitter.com/sirikon) y [Xavi](
 
 ### Salida después del evento
 
-Muchos antiasistentes nos quedamos tomando algo y allí conocí a algunos antiasistentes que sólo conocía por twitter. De hecho no era fácil reconocernos y alguno se dio cuenta que estaba hablando con el mismísimo [@oneeyedman](https://twitter.com/oneeyedman) ya después de bastante tiempo hablando con él. Tampoco podríais reconocer vosotros a la [Elena Ramírez](https://twitter.com/lenatwitteada) real, que no llevaba gafas rosas ni es morena!
+Muchos antiasistentes nos quedamos tomando algo y allí conocí a muchos que sólo conocía por twitter. De hecho no era fácil reconocernos y alguno se dio cuenta de que estaba hablando con el mismísimo [@oneeyedman](https://twitter.com/oneeyedman) ya después de bastante tiempo hablando con él. Tampoco podríais reconocer vosotros a la [Elena Ramírez](https://twitter.com/lenatwitteada) real, que no lleva gafas rosas ni es morena!
 
 ## Sábado
 
-El sábado se reorganizaron las charlas añadiendo algunas propuestas de gente que no había podido ir el viernes. Muchas de las notas del día las podréis encontrar en [theAntiEvent notes](https://elenatorro.github.io/theantievent-notes/), de la gran [Elena Torró](https://twitter.com/eletorro). Podéis añadir las vuestras haciendo PR a su [repo](https://github.com/elenatorro/theantievent-notes).
+El sábado se reorganizaron las charlas añadiendo algunas propuestas de gente que no había podido ir el viernes. Muchas de las notas del día las podréis encontrar en [theAntiEvent notes](https://elenatorro.github.io/theantievent-notes/), de la gran [Elena Torró](https://twitter.com/eletorro). Podéis añadir las vuestras haciendo PR a su [repo](https://github.com/elenatorro/theantievent-notes). Yo tengo pendientes añadir las mías.
 
 ### Acuarelas
 
 Unos cuantos empezamos el día con el taller de acuarelas de [Carlos](https://twitter.com/oneeyedman), donde nos mostró un [ejemplo](https://twitter.com/TheAntiEvent/status/906472953415598080) de lo que se puede hacer con acuarela y después nos dio pinceles y acuarelas para que perdiéramos un poco el miedo de empezar. Nos quedamos tan a gusto que nos quedamos en vez de ir a otra charla :)
 
-Como truco apunté que podemos usar lápices acuarelables para los detalles, que podemos dibujar en un folio y luego calcarlo en el papel para acuarela, que hay que hacer bastante mezcla para no quedarnos sin color y que luego nos salga distinto y que se puede dar una capa por encima pero asegurándonos que se secó la capa anterior. 
+Como truco apunté que podemos usar lápices acuarelables para los detalles, que podemos dibujar en un folio y luego calcarlo en el papel para acuarela, que hay que hacer bastante mezcla para no quedarnos sin color y que luego nos salga uno distinto y que se puede dar una capa por encima, pero asegurándonos que se secó la capa anterior. 
 
 ### SVG
 
-[Jorge](https://twitter.com/jorgeATGU) hizo unas cuantas charlas en este TheAntiEvent, una de ellas de [SVG](http://jorgeatgu.github.io/slides-svg/#/), por petición popular. He descubierto el sistema de [compartir enlaces](https://twitter.com/jorgeATGU/status/906488104349028352) que utiliza y es muy útil. Yo me dediqué a apuntar cómo usa GitHub y publica demos para mi proyecto de GitHub Pages, así que puede ser que salgan ejemplos suyos en el futuro ;)
+[Jorge](https://twitter.com/jorgeATGU) hizo unas cuantas charlas en este TheAntiEvent, una de ellas de [SVG](http://jorgeatgu.github.io/slides-svg/#/), por petición popular. He descubierto el sistema de [compartir enlaces](https://twitter.com/jorgeATGU/status/906488104349028352) que utiliza y es muy útil. Yo me dediqué a apuntar cómo usa GitHub y publica demos, para mi [proyecto de GitHub Pages](https://github.com/cristinafsanz/github-pages), así que puede ser que salgan ejemplos suyos en el futuro ;)
 
 ### Cómo se hace WeCodesign
 
@@ -49,7 +49,7 @@ Como truco apunté que podemos usar lápices acuarelables para los detalles, que
 
 ### Gulp-bash
 
-La charla que más me gustó de TheAntiEvent fue la de bash de [Jorge](https://twitter.com/jorgeATGU). Yo empecé a trabajar (hace casi 10 años ya) usando vim y escribiendo scripts de bash y creo que tengo nostalgia del pasado :) Os dejo los [enlaces](https://twitter.com/jorgeATGU/status/906542557362081792) que compartió en twitter y creo que dedicaré otro artículo o README de repositorio a contar lo que tengo que probar de lo que contó, que es mucho!
+La charla que más me gustó de TheAntiEvent fue la de bash de [Jorge](https://twitter.com/jorgeATGU). Yo empecé a trabajar (hace casi 10 años ya) usando vim y escribiendo scripts de bash y creo que tengo nostalgia del pasado :) Os dejo los [enlaces](https://twitter.com/jorgeATGU/status/906542557362081792) que compartió en twitter y creo que dedicaré otro artículo o un README de repositorio a contar lo que tengo que probar de lo que contó, que es mucho!
 
 ### Diversidad en la tecnología
 
