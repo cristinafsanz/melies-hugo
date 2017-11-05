@@ -1,5 +1,6 @@
 +++
 date = "2017-09-11T19:26:19+02:00"
+draft = true
 tags = ["evento"]
 title = "Experiencia en el evento tecnológico TheAntiEvent"
 
