@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>&amp;copy; 2017 Cristina Fernández | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥ | &lt;a href=&#34;https://js.org&#34; target=&#34;_blank&#34; title=&#34;JS.ORG | JavaScript Community&#34;&gt;&lt;img src=&#34;https://logo.js.org/dark_tiny.png&#34; width=&#34;55&#34; alt=&#34;JS.ORG Logo&#34;&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 02 Sep 2017 15:26:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2017 13:00:41 +0100</lastBuildDate>
     
 	<atom:link href="https://melies-hugo.js.org/tags/proceso/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Proceso de una charla</title>
+      <link>https://melies-hugo.js.org/post/proceso-charla/</link>
+      <pubDate>Sun, 03 Dec 2017 13:00:41 +0100</pubDate>
+      
+      <guid>https://melies-hugo.js.org/post/proceso-charla/</guid>
+      <description>El sábado pasado hice por fin la charla en Codemotion.
+He estado unos meses preparándola y creo que me he organizado bien, aunque me lo he tomado demasiado en serio. Las últimas semanas me agobié un poco, sobre todo después de ver algunos errores que hacía al presentar.
+A mí yo del pasado (o del futuro que vuelva a leer esto o a ti si eres como yo) le diría que no pasa nada por hacerlo un poco rápido, tener coletillas o hacer la presentación con un tono un poco monótono.</description>
+    </item>
     
     <item>
       <title>Preparación del guión</title>
